@@ -1,0 +1,5 @@
+/Users/zhaoqian/Desktop/thriftRPC_lab/cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/zhaoqian/Desktop/thriftRPC_lab/cpp/build/CMakeFiles/edit_cache.dir
+/Users/zhaoqian/Desktop/thriftRPC_lab/cpp/build/CMakeFiles/client.dir
+/Users/zhaoqian/Desktop/thriftRPC_lab/cpp/build/CMakeFiles/server.dir
+/Users/zhaoqian/Desktop/thriftRPC_lab/cpp/build/CMakeFiles/student.dir

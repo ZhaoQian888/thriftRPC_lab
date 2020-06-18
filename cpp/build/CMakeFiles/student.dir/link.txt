@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libstudent.a  CMakeFiles/student.dir/gen-cpp/Serv.cpp.o CMakeFiles/student.dir/gen-cpp/Serv_server.skeleton.cpp.o CMakeFiles/student.dir/gen-cpp/student_types.cpp.o CMakeFiles/student.dir/gen-cpp/student_constants.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libstudent.a
